@@ -34,5 +34,4 @@ public class MainActivity extends AppCompatActivity {
             textView.setBackgroundColor(Color.YELLOW);
         });
     }
-    // Code for revert
 }
